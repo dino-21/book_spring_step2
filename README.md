@@ -1,3 +1,5 @@
+STEP2_스프링_book2_Controller어노테이션의 파라미터 수집과 변환
+
 
 ![49](https://github.com/dino-21/book_spring_step2/assets/80396471/45941a17-5e59-46a4-948f-dd0a14dd0d72)
 
